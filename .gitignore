@@ -1,0 +1,7 @@
+# Optional: .gitignore
+# Ignore system-specific files and sensitive data
+*.swp
+*.swo
+*.bak
+.cache
+ssh_keys/
